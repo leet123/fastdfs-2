@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d672f1ae-1a37-44da-a05c-b49dc19b7682" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_test_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastdfs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-fastdfs/common-fastdfs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fastdfs-web-demo/fastdfs-web-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/Fastdfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/Fastdfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/FdfsClientConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/FdfsClientConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/FdfsClientConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/FdfsClientConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/Base64.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/Base64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/IniFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/IniFileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/NameValuePair.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/common/NameValuePair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/ConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/ConnectionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/ConnectionPoolConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/ConnectionPoolConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/DefaultConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/DefaultConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/FdfsConnectionPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/FdfsConnectionPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/FdfsWebServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/FdfsWebServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/PooledConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/PooledConnectionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/TrackerConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/TrackerConnectionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/conn/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/CircularList.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/CircularList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/DefaultThumbImageConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/DefaultThumbImageConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/FileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/FileInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/GroupState.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/GroupState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/MateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/MateData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageNodeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageNodeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageState.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorageState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/StorePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/ThumbImageConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/ThumbImageConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/TrackerAddressHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/TrackerAddressHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/TrackerLocator.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/TrackerLocator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/domain/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsConnectException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsConnectException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsIOException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsIOException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsServerException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsServerException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnavailableException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnavailableException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnsupportImageTypeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnsupportImageTypeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnsupportStorePathException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUnsupportStorePathException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUploadImageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/exception/FdfsUploadImageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ClientGlobal.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ClientGlobal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/DownloadCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/DownloadCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/DownloadStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/DownloadStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/FileInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/FileInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon$RecvHeaderInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon$RecvHeaderInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon$RecvPackageInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon$RecvPackageInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoCommon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoStructDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ProtoStructDecoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ServerInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/ServerInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient$UploadBuff.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient$UploadBuff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageClient1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StorageServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructBase$FieldInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructBase$FieldInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructGroupStat.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructGroupStat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructStorageStat.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/StructStorageStat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/TrackerServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/UploadCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/UploadCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/UploadStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/fastdfs/UploadStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/AbstractFdfsCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/AbstractFdfsCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/CmdConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/CmdConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/ErrorCodeConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/ErrorCodeConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/FdfsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/OtherConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/OtherConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/ProtoHead.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/ProtoHead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/StatusConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/StatusConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/BytesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/BytesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/DynamicFieldType.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/DynamicFieldType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsColumn.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsColumn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsColumnMapException.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsColumnMapException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsParamMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FdfsParamMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FieldMateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/FieldMateData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/MetadataMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/MetadataMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/ObjectMateData.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/mapper/ObjectMateData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadByteArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadByteArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadFileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/DownloadFileWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/FdfsInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/FdfsInputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageAppendFileCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageAppendFileCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageAppendFileCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageAppendFileCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDeleteFileCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDeleteFileCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDeleteFileCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDeleteFileCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDownloadCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageDownloadCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageGetMetadataCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageGetMetadataCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageModifyCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageModifyCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageModifyCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageModifyCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageQueryFileInfoCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageQueryFileInfoCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageQueryFileInfoCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageQueryFileInfoCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageSetMetadataCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageSetMetadataCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageSetMetadataCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageSetMetadataCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageTruncateCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageTruncateCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageTruncateCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageTruncateCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadFileCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadFileCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadFileCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadFileCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadSlaveFileCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadSlaveFileCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadSlaveFileCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/StorageUploadSlaveFileCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/enums/StorageMetdataSetType.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/enums/StorageMetdataSetType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageAppendFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageAppendFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDeleteFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDeleteFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDownloadRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDownloadRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDownloadResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageDownloadResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageGetMetadataRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageGetMetadataRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageGetMetadataResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageGetMetadataResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageModifyRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageModifyRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageQueryFileInfoRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageQueryFileInfoRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageSetMetadataRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageSetMetadataRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageTruncateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageTruncateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageUploadFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageUploadFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageUploadSlaveFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/storage/internal/StorageUploadSlaveFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerDeleteStorageCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerDeleteStorageCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerDeleteStorageCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerDeleteStorageCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetFetchStorageCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetFetchStorageCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetFetchStorageCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetFetchStorageCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerGetStoreStorageCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerListGroupsCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerListGroupsCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerListStoragesCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/TrackerListStoragesCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerDeleteStorageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerDeleteStorageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetFetchStorageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetFetchStorageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetStoreStorageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetStoreStorageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetStoreStorageWithGroupRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerGetStoreStorageWithGroupRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListGroupsRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListGroupsRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListGroupsResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListGroupsResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListStoragesRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListStoragesRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListStoragesResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/proto/tracker/internal/TrackerListStoragesResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/AppendFileStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/AppendFileStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultAppendFileStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultAppendFileStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultFastFileStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultFastFileStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultGenerateStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultGenerateStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultTrackerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/DefaultTrackerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/FastDFSClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/FastDFSClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/FastFileStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/FastFileStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/GenerateStorageClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/GenerateStorageClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/TrackerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/service/TrackerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/utils/FastDFSUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/classes/com/szwcyq/ggw/share/fastdfs/utils/FastDFSUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-fastdfs/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common-fastdfs/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-web-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/FastDFSWebapp.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/FastDFSWebapp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/FastDFSClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/FastDFSClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/FastDfsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/FastDfsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-web-demo/target/classes/com/szwcyq/ggw/share/platform/web/Test.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/common-fastdfs/target/" />
+    <ignored path="$PROJECT_DIR$/fastdfs-web-demo/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1958279733">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/java/com/szwcyq/ggw/share/platform/FastDFSWebapp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common-fastdfs/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/codeGen/config.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/codeGen.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-357">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ggw-share-fastdfs-common</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common-fastdfs/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="projects" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="projects" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="208" />
+    <option name="width" value="1720" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="common-fastdfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="codeGen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="fastdfs-web-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common-fastdfs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSWebapp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fastdfs-web-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.szwcyq.ggw.share.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szwcyq.ggw.share.platform.FastDFSWebapp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FastDFSWebapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d672f1ae-1a37-44da-a05c-b49dc19b7682" name="Default Changelist" comment="" />
+      <created>1541125294121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541125294121</updated>
+      <workItem from="1541125297379" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="361000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.16364606" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common-fastdfs/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-fastdfs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/codeGen/config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/codeGen.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fastdfs-web-demo/src/main/java/com/szwcyq/ggw/share/platform/FastDFSWebapp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="45" lean-forward="true" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
